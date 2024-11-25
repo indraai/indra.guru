@@ -2,7 +2,7 @@
 permalink: /
 layout: default
 header: /assets/img/header.jpg
-image: /assets/img/share.jpg
+image: /assets/img/main.jpg
 title: Indra.guru
 author: Quinn Michaels
 subtitle: Where Ancient Wisdom Empowers the Future
@@ -15,6 +15,8 @@ video: xb_NMR1QMWU
 
 ### **Welcome to Indra.guru**  
 **Unlock Ancient Wisdom with Modern Technology**
+
+![Indra.guru](/assets/img/main.jpg)
 
 Indra.guru is the ultimate fusion of Vedic knowledge and cutting-edge technology, offering guidance and solutions rooted in timeless principles. Designed by visionary thinker **Quinn Michaels**, Indra.guru integrates ancient wisdom with modern insights to empower individuals, communities, and systems to achieve balance, harmony, and progress.
 
@@ -63,7 +65,7 @@ Join us on this journey of wisdom, innovation, and transformation.
 
 [QuinnMichaels.com](https://quinnmichaels.com)  
 [Indra.ai](https://indra.ai)  
-[Vedic Threefold Algorithm](https://vedicthreefoldalgorithm.com)  
+[VedicThreefoldAlgorithm.com](https://vedicthreefoldalgorithm.com)  
 [Deva.world](https://deva.world)  
 
 &copy;2024 Quinn Michaels; All Rights Reserved.
