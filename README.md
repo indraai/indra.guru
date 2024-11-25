@@ -2,6 +2,7 @@
 permalink: /
 layout: default
 header: /assets/img/header.jpg
+image: /assets/img/share.jpg
 title: Indra.guru
 author: Quinn Michaels
 subtitle: Where Ancient Wisdom Empowers the Future
