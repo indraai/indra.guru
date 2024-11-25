@@ -1,0 +1,18 @@
+@import "root"
+@import "global"
+@import "header"
+@import "footer"
+
+main
+  margin: 0 auto
+  max-width: $page.main
+  padding: 0
+  display: flex
+  flex-flow: column
+  flex: 1
+  padding: 0 1rem
+  img
+    max-width: 100%
+
+  @media screen and (max-width: 600px)
+    margin: 0 1rem
