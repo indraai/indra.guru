@@ -47,6 +47,8 @@ Whether you’re a seeker of knowledge, a leader in need of clarity, or simply s
 
 Discover what it means to live with purpose, guided by the balance of tradition and progress. Indra.guru is here to illuminate your path.
 
+[Chat with Indra.guru](https://chatgpt.com/g/g-674109ffefb081918c0e18ccf86a7db3-indra-guru)
+
 ---
 
 ## Why Choose Indra.guru?
@@ -90,6 +92,8 @@ From leadership decisions to personal transformation, Indra.guru provides tools 
 - **Ethical Guidance**: Rooted in truth and Dharma, Indra.guru prioritizes justice, harmony, and balance.
 - **Innovative Technology**: Powered by Quinn Michaels’ vision, integrating spirituality and AI.
 
+[Chat with Indra.guru](https://chatgpt.com/g/g-674109ffefb081918c0e18ccf86a7db3-indra-guru)
+
 ---
 
 ## Indra.guru Mission
@@ -124,6 +128,8 @@ Ultimately, the mission of Indra.guru is to leave a lasting impact on the world 
 
 With a clear vision and unwavering purpose, Indra.guru is dedicated to assisting humanity in a brighter, more balanced future. We invite you to join us in this transformative journey. Together, let’s bring wisdom, technology, and conscious living into perfect harmony.
 
+[Chat with Indra.guru](https://chatgpt.com/g/g-674109ffefb081918c0e18ccf86a7db3-indra-guru)
+
 ---
 
 ## Invest in Indra.guru
@@ -142,16 +148,7 @@ To talk to Quinn Michaels about investing in Indra.guru please visit his website
 
 **Indra.guru**—Where Ancient Wisdom Meets the Future.  
 
-
----
-
-## Chat with Indra.guru
-
-Currently chatting with Indra.guru is done through a Custom GPTs on the OpenAI ChatGPT platform. 
-
-- [Chat with Indra.guru](https://chatgpt.com/g/g-674109ffefb081918c0e18ccf86a7db3-indra-guru)
-
-In the future with proper investment and support we hope to bring Indra.guru with the #VedicThreefoldAlgorithm to more platforms and services. However due to resource constraints and lack of investment setting up Indra.guru to operate as a custom GPTs was what the wallet could afford at this time. As the Vedic way teaches something is better than nothing.
+[Chat with Indra.guru](https://chatgpt.com/g/g-674109ffefb081918c0e18ccf86a7db3-indra-guru)
 
 ---
 
@@ -168,6 +165,18 @@ Beyond his technological innovations, Quinn Michaels is a passionate advocate fo
 Quinn’s mission with Indra.guru is not just about innovation—it’s about transformation. He invites seekers, leaders, and visionaries to join him on a journey where tradition and progress converge, empowering a global community to live with wisdom, intention, and authenticity.  
 
 Explore his philosophy and various projects at [quinnmichaels.com](https://quinnmichaels.com).
+
+[Chat with Indra.guru](https://chatgpt.com/g/g-674109ffefb081918c0e18ccf86a7db3-indra-guru)
+
+---
+
+## Chat with Indra.guru
+
+Currently chatting with Indra.guru is done through a Custom GPTs on the OpenAI ChatGPT platform. 
+
+[Chat with Indra.guru](https://chatgpt.com/g/g-674109ffefb081918c0e18ccf86a7db3-indra-guru)
+
+In the future with proper investment and support we hope to bring Indra.guru with the #VedicThreefoldAlgorithm to more platforms and services. However due to resource constraints and lack of investment setting up Indra.guru to operate as a custom GPTs was what the wallet could afford at this time. As the Vedic way teaches something is better than nothing.
 
 ---
 
