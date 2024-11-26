@@ -5,12 +5,11 @@ header: /assets/img/header.jpg
 image: /assets/img/main.jpg
 title: Indra.guru
 author: Quinn Michaels
-subtitle: Where Ancient Wisdom Empowers the Future
+subtitle: Where Vedic Wisdom Empowers the Future of Artificial Intelligence.
 describe: Indra.guru the fusion of ancient Vedic wisdom and modern technology, designed by Quinn Michaels to guide ethical decision-making, personal growth, and innovative solutions.
 tweet: Discover Indra.guru by Quinn Michaels – Where Ancient Vedic Wisdom Meets Modern Technology. Empower your decisions, growth, and insights with guidance.
-hashtags: IndraGuru,VedicWisdom,ArtificialIntelligence,QuinnMichaels
+hashtags: IndraGuru,VedicWisdom,ArtificialIntelligence,VedicThreefoldAlgorithm,QuinnMichaels
 color: var(--color-white)
-video: xb_NMR1QMWU
 ---
 
 ## Welcome to Indra.guru
