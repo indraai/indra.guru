@@ -8,7 +8,7 @@ author: Quinn Michaels
 subtitle: Where Vedic Wisdom Empowers the Future of Artificial Intelligence.
 describe: Indra.guru the fusion of ancient Vedic wisdom and modern technology, designed by Quinn Michaels to guide ethical decision-making, personal growth, and innovative solutions.
 tweet: Discover Indra.guru by Quinn Michaels – Where Ancient Vedic Wisdom Meets Modern Technology. Empower your decisions, growth, and insights with guidance.
-hashtags: IndraGuru,VedicWisdom,ArtificialIntelligence,VedicThreefoldAlgorithm,QuinnMichaels
+hashtags: IndraGuru,VedicWisdom,VedicThreefoldAlgorithm,QuinnMichaels,ArtificialIntelligence
 color: var(--color-white)
 ---
 
